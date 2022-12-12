@@ -1,11 +1,11 @@
 {
-    "name": "flutter_demo_project",
-    "short_name": "flutter_demo_project",
+    "name": "flutter_demo_app",
+    "short_name": "flutter_demo_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Flutter demo project",
+    "description": "Flutter demo app",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

@@ -1,2 +1,2 @@
-# flutter_demo_project
-Flutter demo project
+# flutter_demo_app
+Flutter demo app
